@@ -12,3 +12,19 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/yomateod.svg?label=Follow&style=flat-square)](https://twitter.com/yomateod) [![Skype Contact](https://img.shields.io/badge/skype%20id-matthew@matthewdavis.io-blue.svg?style=flat-square)](skype:matthew@matthewdavis.io?chat)
 
 # IRC Server Reply Codes in TypeScript per RFC 1459
+
+https://www.npmjs.com/package/@mateothegreat/irc-command-replies
+
+## Install
+```
+npm i @mateothegreat/irc-command-replies
+```
+
+## Usage
+```
+if (code === IRCCommandReplies.SERVER_MESSAGE.RPL_MOTD) {
+
+    // do something cool with the motd yo
+
+}
+```

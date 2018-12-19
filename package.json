@@ -23,6 +23,6 @@
     },
     "dependencies": {},
     "scripts": {
-        "build": "tsc"
+        "build": "rm -rf dist && tsc"
     }
 }
