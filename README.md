@@ -28,3 +28,5 @@ if (code === IRCCommandReplies.SERVER_MESSAGE.RPL_MOTD) {
 
 }
 ```
+## See also
+* https://datatracker.ietf.org/doc/rfc1459
