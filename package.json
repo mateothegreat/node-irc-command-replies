@@ -1,0 +1,21 @@
+{
+    "name": "@ngxui/ircglass-node-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node dist/server.js",
+        "watch": "nodemon dist/server.js",
+        "build": "tsc",
+        "build:watch": "tsc -w"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {
+        "@types/node": "^10.12.17",
+        "nodemon": "^1.18.9",
+        "typescript": "^3.2.2"
+    }
+}
