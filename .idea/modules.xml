@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/node-irc-message-replies.iml" filepath="$PROJECT_DIR$/.idea/node-irc-message-replies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node-irc-command-replies/.idea/node-irc-command-replies.iml" filepath="$PROJECT_DIR$/../node-irc-command-replies/.idea/node-irc-command-replies.iml" />
     </modules>
   </component>
 </project>

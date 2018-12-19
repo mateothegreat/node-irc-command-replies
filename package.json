@@ -1,21 +1,25 @@
 {
-    "name": "@ngxui/ircglass-node-api",
+    "name": "@mateothegreat/irc-command-replies",
     "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "start": "node dist/server.js",
-        "watch": "nodemon dist/server.js",
-        "build": "tsc",
-        "build:watch": "tsc -w"
+    "description": "IRC Server Reply Codes in TypeScript per RFC 1459",
+    "author": {
+        "email": "matthew@matthewdavis.io",
+        "name": "Matthew Davis",
+        "url": "https://matthewdavis.io"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {},
-    "devDependencies": {
-        "@types/node": "^10.12.17",
-        "nodemon": "^1.18.9",
-        "typescript": "^3.2.2"
-    }
+    "license": "MIT",
+    "keywords": [
+        "irc",
+        "rfc 1459"
+    ],
+    "bugs": {
+        "email": "matthew@matthewdavis.io",
+        "url": "https://github.com/mateothegreat/node-irc-command-replies/issues"
+    },
+    "homepage": "https://ngxux.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mateothegreat/node-irc-command-replies.git"
+    },
+    "dependencies": {}
 }
